@@ -14,6 +14,10 @@ public class Variable {
 		a = 2; // a는 2라는 값을 재 할당
 		System.out.println(a+3);   //5
 		
+		a = -3;  
+		System.out.println(a*-3);
+		
+		
 
 	}
 
