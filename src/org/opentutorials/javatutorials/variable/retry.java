@@ -30,8 +30,13 @@ public class retry {
 		System.out.println(i +"ばば");
 		System.out.println(i +"でで");
 		
-		
-		
+		/**
+		 * dd
+		 * dd
+		 * dd
+		 * dd
+		 * dd
+		 */
 
 	}
 
