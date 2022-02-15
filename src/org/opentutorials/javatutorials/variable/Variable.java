@@ -2,7 +2,7 @@ package org.opentutorials.javatutorials.variable;
 
 public class Variable {
 
-	public static void main(String[] args) {
+	public static void main(string[] args) {
 		
 		// 변수의 선언과 할당
 		// 변수 > 데이터를 담는 컨테이너라고 생각하면 편하다.

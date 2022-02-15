@@ -2,7 +2,7 @@ package org.opentutorials.javatutorials.variable;
 
 public class string {
 
-	public static void main(String[] args) {
+	public static void main(string[] args) {
 		String sese;           // String는 문자열 변수 int 실수 double 정수
         sese = "coding";       // 코딩을 대입 
         System.out.println(sese);
