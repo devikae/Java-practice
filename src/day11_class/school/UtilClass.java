@@ -1,4 +1,4 @@
-package day11_class;
+package day11_class.school;
 /**
  * 유용한 함수들을 제공하는 클래스 
  * @author dev-ikae

@@ -1,6 +1,6 @@
 package day11_class.school;
 
-import day11_class.company.UtilClass;
+
 
 /**
  * 학생 객체를 생성하기 위한 클래스

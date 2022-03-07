@@ -1,9 +1,10 @@
 package day11_class.school;
 
+
 import java.util.ArrayList;
 import java.util.Collections;
 
-import day11_class.company.UtilClass;
+
 
 /**
  * 실행(main Method) 실행만을 담당하는 클래스 
