@@ -44,15 +44,15 @@ public class D_dayCal {
 
 		}
 
-		Calendar c1 = Calendar.getInstance();
-
-		SimpleDateFormat sdf2 = new SimpleDateFormat("yyyyMMdd");
-
-		String today = sdf2.format(c1.getTime());
-
-		Date current = sdf2.parse(today);
-
-		System.out.println(today);
+//		Calendar c1 = Calendar.getInstance();
+//
+//		SimpleDateFormat sdf2 = new SimpleDateFormat("yyyyMMdd");
+//
+//		String today = sdf2.format(c1.getTime());
+//
+//		Date current = sdf2.parse(today);
+//
+//		System.out.println(today);
 
 	}
 
@@ -60,7 +60,7 @@ public class D_dayCal {
 		
 		Calendar c1 = Calendar.getInstance();
 		
-		SimpleDateFormat sdf2 = new SimpleDateFormat("yyyyMMdd");
+		SimpleDateFormat sdf2 = new SimpleDateFormat("yyyyMMdd"); // 형식지정
 		
 		String today = sdf2.format(c1.getTime());
 		
@@ -79,9 +79,9 @@ public class D_dayCal {
 			System.out.println("D-"+ result);
 		}
 
-		
-		
-		
+		// 달력을 만들어주는 클래스를 만들자 
+		// ApiCalendar apciCal = new ApiCalendar(2022,4)
+		// apiCal.drawCal(); 
 		
 		
 	}

@@ -145,10 +145,7 @@ public class ApiQuestion {
 		Date dateCal = cal.getTime();
 		System.out.println(sdf.format(dateCal));
 		
-		
-		
-		
-		
+
 		
 		
 	}
