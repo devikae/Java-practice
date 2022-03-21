@@ -1,4 +1,4 @@
-package submit03;
+package cal3;
 
 public class DateBoard {
 	private String title;
@@ -29,4 +29,3 @@ public class DateBoard {
 	
 }
 	
-
