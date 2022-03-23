@@ -1,0 +1,5 @@
+package day15_thread.factory;
+
+public interface EndFactory {
+	public void theEnd();
+}
